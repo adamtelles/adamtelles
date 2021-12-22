@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamtelles" alt="adamtelles" /></a> </p>
 
-- 🌱 I’m currently doing my bachelor's in **Software Engineering & Management at University of Gothenburg**
+- 🌱 I’m currently doing my bachelor's in **Software Engineering & Management** at the **University of Gothenburg**
 
-- 💬 Ask me about **SwiftUI, VueJS and Firebase. My favorite technologies so far.**
+- 💬 Ask me about **SwiftUI, VueJS and Firebase.** My favorite technologies so far.
+
+- ⚡ I enjoy creating designs and mockups in **Figma** and then bringing them to life in **SwiftUI**
 
 - 📫 How to reach me **adam.telles99@gmail.com**
 
