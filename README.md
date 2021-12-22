@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently doing my bachelor's in **Software Engineering & Management** at the **University of Gothenburg**
 
-- 💬 Ask me about **SwiftUI, VueJS and Firebase.** My favorite technologies so far.
+- 💬 Ask me about my favorite technologies so far **SwiftUI, VueJS and Firebase.**
 
 - ⚡ I enjoy creating designs and mockups in **Figma** and then bringing them to life in **SwiftUI**
 
