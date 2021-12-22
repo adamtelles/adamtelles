@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Telles</h1>
 <h3 align="center">A passionate software engineering student from Sweden</h3>
+<h4 align="center">🇺🇸 English, 🇸🇪 Swedish</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamtelles" alt="adamtelles" /></a> </p>
 
