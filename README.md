@@ -6,10 +6,6 @@
 
 - 🌱 I’m currently doing my bachelor's in **Software Engineering & Management** at the **University of Gothenburg**
 
-- 💬 Ask me about my favorite technologies so far **SwiftUI, VueJS and Firebase.**
-
-- ⚡ I enjoy creating designs and mockups in **Figma** and then bringing them to life in **SwiftUI**
-
 - 📫 How to reach me **adam.telles99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
